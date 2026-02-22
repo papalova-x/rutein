@@ -1,0 +1,5 @@
+{
+  "name": "TourMate - Perencana Liburan Pribadi",
+  "description": "Aplikasi asisten perjalanan pribadi untuk mengelola rute, jadwal, dan tujuan liburan Anda secara real-time.",
+  "requestFramePermissions": ["geolocation"]
+}
